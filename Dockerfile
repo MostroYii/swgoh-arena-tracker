@@ -1,1 +1,1 @@
-FROM mostroyii/swgoh-arena-tracker:beta-24
+FROM MostroYii/swgoh-arena-tracker:beta-24
